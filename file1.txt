@@ -1,2 +1,5 @@
 git test
 commit test
+commit test2
+commit message :q!
+commit message :wq!
